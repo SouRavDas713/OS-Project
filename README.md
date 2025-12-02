@@ -1,9 +1,4 @@
-Perfect — here is a **complete, ready-to-paste `README.md` file specifically written for your TaskForm (Mars Robot Task Scheduler Form)**.
-You can **copy everything below and paste it directly into `README.md`** ✅
 
----
-
-````md
 # 🚀 Mars Robot Task Scheduler Form
 
 A modern, responsive React.js form that allows users to schedule and manage tasks for a Mars exploration robot. The form automatically assigns burst time and priority based on the selected task and displays all added tasks in a structured table.
@@ -12,12 +7,9 @@ A modern, responsive React.js form that allows users to schedule and manage task
 
 ## 📸 Screenshot
 
-Add your screenshot here after uploading it to your repository:
 
-```md
 ![Mars Robot Task Scheduler](./public/Screenshot_2.png)
 
-````
 
 ---
 
@@ -81,33 +73,15 @@ Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
 
 ### 2️⃣ Go to Project Folder
 
-```bash
-cd your-repo-name
-```
 
 ### 3️⃣ Install Dependencies
 
-```bash
-npm install
-```
+
 
 ### 4️⃣ Start Development Server
-
-```bash
-npm run dev
-```
-
-or
-
-```bash
-npm start
-```
 
 ---
 
